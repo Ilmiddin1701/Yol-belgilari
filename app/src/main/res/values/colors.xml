@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#005CA1</color>
+    <color name="edtColor">#E7E3E3</color>
+    <color name="edtHintColor">#A8A3A3</color>
+    <color name="edtStrokeColor">#D1D0D0</color>
+</resources>

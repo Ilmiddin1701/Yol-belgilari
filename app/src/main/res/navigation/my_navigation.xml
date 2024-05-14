@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/itemViewPager1Fragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.ItemVpFragments.ItemViewPager1Fragment"
+        android:label="fragment_item_view_pager1"
+        tools:layout="@layout/fragment_item_view_pager1" />
+    <fragment
+        android:id="@+id/itemViewPager2Fragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.ItemVpFragments.ItemViewPager2Fragment"
+        android:label="fragment_item_view_pager2"
+        tools:layout="@layout/fragment_item_view_pager2" />
+    <fragment
+        android:id="@+id/itemViewPager3Fragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.ItemVpFragments.ItemViewPager3Fragment"
+        android:label="fragment_item_view_pager3"
+        tools:layout="@layout/fragment_item_view_pager3" />
+    <fragment
+        android:id="@+id/itemViewPager4Fragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.ItemVpFragments.ItemViewPager4Fragment"
+        android:label="fragment_item_view_pager4"
+        tools:layout="@layout/fragment_item_view_pager4" />
+    <fragment
+        android:id="@+id/addSymbolFragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.AddSymbolFragment"
+        android:label="fragment_add_symbol"
+        tools:layout="@layout/fragment_add_symbol" />
+    <fragment
+        android:id="@+id/symbolViewFragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.SymbolViewFragment"
+        android:label="fragment_symbol_view"
+        tools:layout="@layout/fragment_symbol_view" />
+    <fragment
+        android:id="@+id/likedFragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.LikedFragment"
+        android:label="fragment_liked"
+        tools:layout="@layout/fragment_liked" />
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="com.ilmiddin1701.yolharakatiqoidalari.fragments.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" />
+</navigation>

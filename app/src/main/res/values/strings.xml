@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Yo\'l harakati qoidalari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yo_l_belgilari">Yo\'l belgilari</string>
+    <string name="ogohlantiruvchi">Ogohlantiruvchi</string>
+    <string name="home">Home</string>
+    <string name="liked">Liked</string>
+    <string name="biz_haqimizda">Biz haqimizda</string>
+    <string name="yoqtirganlar">Yoqtirganlar</string>
+    <string name="bosh_menyu">Bosh menyu</string>
+    <string name="shlagbaumli_temir_yo_l_kesishmasi">Shlagbaumli temir yo\'l kesishmasi</string>
+    <string name="o_zgartirish">O\'zgartirish</string>
+    <string name="o_chirish">O\'chirish</string>
+    <string name="yo_l_belgisini_qo_shish">Yo\'l belgisini qo\'shish</string>
+    <string name="rasm_ustiga_bosing">Yo\'l belgisining rasmini qo\'shish uchun rasm ustiga bosing</string>
+    <string name="yo_l_belgisining_nomi">Yo\'l belgisining nomi</string>
+    <string name="tavsif">Yo\'l belgisining to\'liq tavsifi</string>
+    <string name="qaysi_turga_kirishi">Qaysi turga kirishi</string>
+    <string name="save">Saqlash</string>
+    <string name="tavsif_1">Ushbu yo‘l belgisi to‘suvchi qurilma bilan jihozlangan temir yo‘l kesishmasiga yetmasdan o‘rnatiladi va transport vositalari haydovchilarini oldinda to‘suvchi qurilma borligi haqida ogohlantiradi.</string>
+    <string name="yoqtirganalr">Yoqtirganalr</string>
+    <string name="about">Ilmiddin O\'rinov buyuk dasturchi</string>
+</resources>

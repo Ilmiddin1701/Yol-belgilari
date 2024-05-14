@@ -1,0 +1,5 @@
+<resources>
+    <style name="Base.Theme.YolHarakatiQoidalari" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#B3005CA1</item>
+    </style>
+</resources>
